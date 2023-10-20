@@ -260,7 +260,7 @@ Select a principal
 </p>
 <p>
   
-  Click Apply and Ok.
+  Click Apply and OK.
   
 <p>
 <img src="https://imgur.com/saRO3y5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
